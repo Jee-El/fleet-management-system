@@ -37,7 +37,7 @@ This project was a practical application of these concepts, reinforcing best pra
     - `FleetManager` — Handles operations related to vehicle assignment and fleet maintenance.
 
 - **Vehicles**
-    - `Vehicule` — Base vehicle class (traditional spelling kept if intentional).
+    - `Vehicule` — Base vehicle class (mispelling to fix).
     - `VehiculeSpecs` — Technical details for regular vehicles.
     - `ElectricVehicule` — Inherits from `Vehicule`, representing electric vehicles.
     - `ElectricVehiculeSpecs` — Electric-specific specs (battery, range, etc.).
